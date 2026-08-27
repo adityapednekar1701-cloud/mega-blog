@@ -7,9 +7,9 @@ import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } 
 
 import Layout from './components/Layout'
 import AuthLayout from './components/AuthLayout'
-import Home from './pages/Home'
-import Login from './components/Login'
-import Signup from './components/Signup'
+import Home from './Pages/Home'
+import Login from './components/Login.jsx'
+import SignUp from './components/Signup.jsx'
 import AllPost from './Pages/AllPost.jsx'
 import AddPost from './Pages/AddPost.jsx'
 import EditPost from './Pages/EditPost.jsx'
