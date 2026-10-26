@@ -9,12 +9,6 @@ A full-stack blogging application built with **React**, **Vite**, and **Appwrite
 
 ---
 
-## Screenshots
-
-| Home | Post Editor |
-|------|-------------|
-| ![Home](./screenshots/home.png) | ![Editor](./screenshots/editor.png) |
-
 ---
 
 ## Features
